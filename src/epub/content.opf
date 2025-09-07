@@ -3,18 +3,18 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://github.com/kingrpaul/en-la-pinarbaro</dc:identifier>
 		<dc:date>2025-04-01T19:00:00Z</dc:date>
-		<meta property="dcterms:modified">2025-04-01T19:00:00Z</meta>
+		<meta property="dcterms:modified">2025-09-07T19:00:00Z</meta>
 		<dc:rights>Except as otherwise noted, the sources used in this ebook are believed to be in the US public domain. The ebook itself is dedicated to to the worldwide public domain CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<!-- 	PUBLISH -->
 		<dc:publisher id="publisher">Paul King</dc:publisher>
 		<meta property="file-as" refines="#publisher">King, Paul</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://kingrpaul.github.io</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://kingrpaul.github.io/</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<!-- ACCESSIBILITY -->
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>

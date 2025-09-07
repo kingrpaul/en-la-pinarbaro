@@ -13,6 +13,12 @@
 		</ignore>
 	</file>
 	<!-- CONTENT -->
+	<file path="content.opf">
+		<ignore>
+			<code>m-079</code>
+			<reason>single item not part of a collection</reason>
+		</ignore>
+	</file>
 	<!-- TITLEPAGE -->
 	<file path="titlepage.xhtml">
 		<ignore>
